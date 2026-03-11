@@ -3,4 +3,3 @@ export const environment = {
   // ⚠️ Reemplaza esta URL con la URL de tu backend en Render.com
   apiUrl: 'https://maneja-tus-gastos-torrico.onrender.com',
 };
-
